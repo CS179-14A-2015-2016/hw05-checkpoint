@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Checkpoint-HW05\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\Checkpoint-HW05\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\Checkpoint-HW05\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\Checkpoint-HW05\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\Checkpoint-HW05\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\Checkpoint-HW05\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\User\Desktop\Checkpoint-HW05\WindowsFormsApplication1\obj\Debug\Checkpoint-HW05.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Checkpoint-HW05\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\Checkpoint-HW05\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\Checkpoint-HW05\WindowsFormsApplication1\obj\Debug\Checkpoint-HW05.csproj.GenerateResource.Cache
